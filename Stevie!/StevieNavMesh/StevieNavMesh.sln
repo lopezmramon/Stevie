@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StevieNavMesh.Plugins", "StevieNavMesh.Plugins.csproj", "{22B6F671-D471-4302-8F67-F7CC8118BF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StevieNavMesh", "StevieNavMesh.csproj", "{C36CFBE6-9521-D92F-4B0D-C48FDD37AA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StevieNavMesh.Editor.Plugins", "StevieNavMesh.Editor.Plugins.csproj", "{BF785FBA-6ED6-5372-4967-1DCE4B9A2087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B6F671-D471-4302-8F67-F7CC8118BF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B6F671-D471-4302-8F67-F7CC8118BF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B6F671-D471-4302-8F67-F7CC8118BF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B6F671-D471-4302-8F67-F7CC8118BF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36CFBE6-9521-D92F-4B0D-C48FDD37AA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36CFBE6-9521-D92F-4B0D-C48FDD37AA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36CFBE6-9521-D92F-4B0D-C48FDD37AA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36CFBE6-9521-D92F-4B0D-C48FDD37AA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF785FBA-6ED6-5372-4967-1DCE4B9A2087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF785FBA-6ED6-5372-4967-1DCE4B9A2087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF785FBA-6ED6-5372-4967-1DCE4B9A2087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF785FBA-6ED6-5372-4967-1DCE4B9A2087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
